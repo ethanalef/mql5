@@ -4,6 +4,6 @@
 # except
 !.gitignore
 !Experts
-!Includes
+!Include
 !Experts/*.mq5
-!Includes/*.mqh
+!Include/*.mqh
